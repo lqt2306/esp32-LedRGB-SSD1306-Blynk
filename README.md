@@ -2,7 +2,7 @@
 
 Dự án điều khiển đèn LED RGB từ xa qua Internet (WiFi / 4G) bằng ứng dụng Blynk IoT trên điện thoại, đồng thời hiển thị trạng thái các màu đèn theo thời gian thực (tự động căn giữa) trên màn hình OLED SSD1306.
 
-![Ảnh mạch thực tế và màn hình OLED](demo.jpg)
+![Ảnh mạch thực tế và màn hình OLED](1795687520191_210938337401836197_2175350814296658808_3941fa4cab428946fbf0e7e14caf07eb.jpg)
 
 ## Tính năng chính
 * Bật/tắt nguồn tổng và điều khiển độc lập 3 màu đèn **Red**, **Green**, **Blue** từ xa qua ứng dụng **Blynk IoT**.
