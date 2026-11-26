@@ -1,7 +1,3 @@
-
-
-
-
 # Điều khiển đèn LED RGB qua Blynk IoT & Hiển thị OLED SSD1306 với ESP32
 
 Dự án điều khiển đèn LED RGB từ xa qua Internet (WiFi / 4G) bằng ứng dụng Blynk IoT trên điện thoại, đồng thời hiển thị trạng thái các màu đèn theo thời gian thực (tự động căn giữa) trên màn hình OLED SSD1306.
